@@ -17,7 +17,9 @@ En un entorno corporativo, los equipos de seguridad reciben grandes volúmenes d
 ## 📚Puntos destacados
 
 Clasificación multiclase de incidentes de ciberseguridad
+
 Pipeline completo de Machine Learning
+
 Preprocesamiento automático de variables categóricas y numéricas
 Comparación de modelos supervisados
 Evaluación con métricas robustas para clases desbalanceadas
