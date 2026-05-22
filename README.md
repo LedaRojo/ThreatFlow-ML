@@ -21,10 +21,15 @@ Clasificación multiclase de incidentes de ciberseguridad
 Pipeline completo de Machine Learning
 
 Preprocesamiento automático de variables categóricas y numéricas
+
 Comparación de modelos supervisados
+
 Evaluación con métricas robustas para clases desbalanceadas
+
 Visualización y guardado de matriz de confusión
+
 Guardado del mejor modelo entrenado
+
 Proyecto extensible hacia integración con SIEM, MITRE ATT&CK y agentes IA
 
 ## 📚Valor diferencial
@@ -32,13 +37,18 @@ Proyecto extensible hacia integración con SIEM, MITRE ATT&CK y agentes IA
 Este proyecto no se limita a entrenar un modelo predictivo. Presenta una estructura reutilizable y profesional orientada a un caso real de ciberseguridad, con potencial evolución hacia:
 
 
-## integración con SIEM
+integración con SIEM
+
 triage automático de alertas
+
 mapeo con MITRE ATT&CK
+
 enriquecimiento con threat intelligence
+
 sistemas multiagente para respuesta a incidentes
+
 generación automática de reportes ejecutivos y técnicos 
-##
+
 
 
 
