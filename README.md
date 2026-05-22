@@ -61,7 +61,7 @@ El proyecto utiliza UNSW-NB15 , un conjunto de datos ampliamente utilizado en in
 
 ## La variable objetivo es:
 
-"attack_cat"
+`attack_cat`
 
 ## Clases utilizadas:
 
